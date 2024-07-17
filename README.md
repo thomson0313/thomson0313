@@ -1,16 +1,16 @@
-## Hi there 👋
+## I am Thomas Anderson 👋
+### Frontend & Blockchain Engineer
 
-<!--
-**thomson0313/thomson0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been working as a frontend and blockchain engineer for over 7 years.
+Built several small-to-large websites and wrote smart contracts, and integrated by using web3
+technology.
 
-Here are some ideas to get you started:
+【Stacks/Skills】
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Frontend - `HTML` | `CSS` | `Sass` | `JavaScript` | `jQuery` | `React.js` | `Next.js` | `Vue.js` | `Typescript` | `Redux` | `Angular.js`
+
+• Blockchain - `Smart Contract` | `Solidity` | `Web3.js` | `Wallets` | `P2E Games` | `DApp` | `DeFi` | `Dex`
+
+• Backend & Database - `Node.js` | `Express.js` | `PHP` | `Laravel` | `MongoDB` | `MySQL` | `Python`
+
+• Tools & Platforms - `Git` | `AWS` | `CI/CD`
