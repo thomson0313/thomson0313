@@ -9,7 +9,7 @@ technology.
 
 • Frontend - `HTML` | `CSS` | `Sass` | `JavaScript` | `jQuery` | `React.js` | `Next.js` | `Vue.js` | `Typescript` | `Redux` | `Angular.js`
 
-• Blockchain - `Smart Contract` | `Solidity` | `Web3.js` | `Wallets` | `P2E Games` | `DApp` | `DeFi` | `Dex`
+• Blockchain - `Smart Contract` | `Solidity` | `Web3.js` | `Wallets` | `P2E Games` | `DApp` | `DeFi` | `Dex` | `NFT`
 
 • Backend & Database - `Node.js` | `Express.js` | `PHP` | `Laravel` | `MongoDB` | `MySQL` | `Python`
 
