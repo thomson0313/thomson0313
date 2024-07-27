@@ -90,8 +90,8 @@ errors, and formatting issues.
 
 • Site link - https://gada.finance
 
-### BLOCKCHAIN ENGINEER
-`SENIOR LARAVEL DEVELOPER-Dubai | November 2021 to August 2022`
+### SENIOR LARAVEL DEVELOPER
+`Etip Vendor LTD-Dubai | November 2021 to August 2022`
 
 • Worked as a senior back-end developer
 
