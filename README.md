@@ -91,15 +91,15 @@ errors, and formatting issues.
 • Site link - https://gada.finance
 
 ### BLOCKCHAIN ENGINEER
-`ICICB-Dubai | November 2021 to August 2022`
+`SENIOR LARAVEL DEVELOPER-Dubai | November 2021 to August 2022`
 
-• Worked as a front-end/blockchain developer
+• Worked as a senior back-end developer
 
-• Worked with Vue, Nuxt.js, Ant design, Chart.js
+• Focused on designing and implementing scalable web applications using Laravel.
 
-• Swap, Staking, Farming, Creating pool, Adding liquidity
+• Created and maintained robust server-side logic and APIs
 
-• Site link - https://www.icicb.com
+• Developed a new API system that decreased data retrieval times by 50%
 
 ### DAPP DEVELOPER
 `Atari-Sunnyvale, CA | May 2020 to February 2021`
