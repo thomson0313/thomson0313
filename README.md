@@ -158,7 +158,7 @@ formatting, images, and layout
 ## How to reach
 ```diff
 🔗 https://thomasanderson.vercel.app
-☎️ https://t.me/thomson0313
+☎️ https://t.me/thomson0313_0x
 💌 https://discord.gg/yGrKf8kB84
 🛫 https://join.skype.com/invite/cWZDLNNAabo2
 🛰️ https://www.linkedin.com/in/thomson19960313
